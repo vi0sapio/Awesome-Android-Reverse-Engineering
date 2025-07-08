@@ -174,11 +174,6 @@ Awesome-Android-Reverse-Engineering is an amazing list for people who work in ta
 - [Android Kernel Exploits](https://github.com/saelo/android_kernel_exploitation) - Collection of kernel vulnerabilities and exploit techniques.
 - [FirmWire](https://github.com/FirmWire/FirmWire) - Dynamic analysis platform for baseband firmware.
 
-## Cloud API & Web Services Reversing
-- [Postman](https://www.postman.com/) - API development and testing tool for analyzing Android network interactions.
-- [Burp Suite Extensions for Mobile](https://portswigger.net/burp/extensions) - Plugins useful for API reversing.
-- [GraphQL Raider](https://github.com/BlackFan/graphql-raider) - Burp Suite extension for discovering and exploiting GraphQL APIs.
-- [Mobile API Recon](https://github.com/0xInfection/Mobile-API-Recon) - Automates API discovery in Android apps.
 
 ## Contributing
 Your contributions are always welcome! Please read the contribution guidelines first. We follow the Contributor Covenant Code of Conduct, so please review and adhere to it when contributing.
