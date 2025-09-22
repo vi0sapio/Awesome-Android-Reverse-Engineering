@@ -19,7 +19,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/user1342/Awesome-Android-Reverse-Engineering)
 <br>
 
-</div>
+</div>sadasdas
 
 # How to Use
 Awesome-Android-Reverse-Engineering is an amazing list for people who work in taking apart Android applications, systems, or components. Simply press ```ctrl + F``` to search for a keyword, go through our Contents Menu, or lookout for a '☆' indicating some great and up-to-date resources.
