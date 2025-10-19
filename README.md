@@ -1,8 +1,4 @@
 # Awesome Android Reverse Engineering
-<p align="center">
-   <img width=100% src="assets/cover.gif">
- </a>
-</p>
 
 # How to Use
 Awesome-Android-Reverse-Engineering is an amazing list for people who work in taking apart Android applications, systems, or components.You can lookout for a '☆' indicating some great and up-to-date resources.
