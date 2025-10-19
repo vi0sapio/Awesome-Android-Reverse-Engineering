@@ -3,6 +3,7 @@ markmap:
   maxWidth: 300
   embedAssets: true
   activeNode: {}
+  initialExpandLevel: 2
 ---
 
         
