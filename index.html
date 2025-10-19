@@ -5,10 +5,24 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Awesome Android Reverse Engineering</title>
+  <title>Awesome Android Reverse Engineering - Tools, Training & Resources</title>
+  <meta name="description" content="Comprehensive guide to Android reverse engineering tools, training materials, courses, books, and CTF challenges for mobile security analysis." />
+  <meta name="keywords" content="Android reverse engineering, APK analysis, mobile security, decompilers, dynamic analysis, malware detection" />
+  <meta name="robots" content="index, follow" />
+  
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Awesome Android Reverse Engineering",
+    "description": "Comprehensive guide to Android reverse engineering tools and resources",
+    "url": "https://vi0sapio.github.io/Awesome-Android-Reverse-Engineering/"
+  }
+  </script>
+  
   <style>
     svg.markmap {
-      width: 100%;
+      width: 100vw;
       height: 100vh;
     }
   </style>
@@ -18,12 +32,14 @@
 <body>
   <div class="markmap">
     <script type="text/template" >
-      ---
+---
 markmap:
   maxWidth: 300
   embedAssets: true
   activeNode: {}
-  initialExpandLevel: -1
+  colorFreezeLevel: 3
+  spacingVertical: 6
+  lineWidth: 1.5
 ---
 
         
@@ -145,8 +161,8 @@ markmap:
 - [ ] [APKPure](https://m.apkpure.com/) - Repository of APKs for testing and research.
 
 ### [ ] Case Studies
-- [ ] [A Reverse Engineer’s Post-mortem Of The Houseparty Video Chat App](https://www.jamesstevenson.me/a-reverse-engineers-post-mortem-of-the-houseparty-video-chat-app/)
-- [ ] [SharkBot: a “new” generation Android banking Trojan being distributed on Google Play Store](https://research.nccgroup.com/2022/03/03/sharkbot-a-new-generation-android-banking-trojan-being-distributed-on-google-play-store/)
+- [ ] [A Reverse Engineer's Post-mortem Of The Houseparty Video Chat App](https://www.jamesstevenson.me/a-reverse-engineers-post-mortem-of-the-houseparty-video-chat-app/)
+- [ ] [SharkBot: a "new" generation Android banking Trojan being distributed on Google Play Store](https://research.nccgroup.com/2022/03/03/sharkbot-a-new-generation-android-banking-trojan-being-distributed-on-google-play-store/)
 - [ ] [In-the-Wild Series: Android Exploits](https://googleprojectzero.blogspot.com/2021/01/in-wild-series-android-exploits.html)
 
 ## CTFs and CrackMes
@@ -165,7 +181,7 @@ markmap:
 ## Obfuscation & Anti-Reversing
 - [ ] **Obfuscation Tools:**
   - [ ] [ProGuard](https://www.guardsquare.com/manual/configuration/usage) - Code shrinker, optimizer, and obfuscator.
-  - [ ] [R8](https://developer.android.com/studio/build/shrink-code) - Google’s code shrinker and obfuscator.
+  - [ ] [R8](https://developer.android.com/studio/build/shrink-code) - Google's code shrinker and obfuscator.
   - [ ] [DexGuard](https://www.guardsquare.com/dexguard) - Commercial tool for advanced app obfuscation.
 - [ ] **Anti-Reversing Techniques:**
   - [ ] [Android Tamper Detection Framework (ATDF)](https://github.com/Fuzion24/AndroidTamperDetection) - Implements tamper detection.
