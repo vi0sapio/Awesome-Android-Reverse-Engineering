@@ -5,6 +5,8 @@ Awesome-Android-Reverse-Engineering is an amazing list for people who work in ta
 
 You can view mind mapped list [here](https://vi0sapio.github.io/Awesome-Android-Reverse-Engineering/).
 
+<img width="2437" height="1456" alt="media" src="https://github.com/user-attachments/assets/e0ef35a8-8f20-4076-bd97-66cbd49fc03f" />
+
 ## Contributing
 Your contributions are always welcome! Please read the contribution guidelines first. We follow the Contributor Covenant Code of Conduct, so please review and adhere to it when contributing.
 
